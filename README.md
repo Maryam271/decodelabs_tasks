@@ -115,3 +115,16 @@ git clone <repository-url>
 cd <project-folder>
 pip install -r requirements.txt
  streamlit run app.py
+
+**OUTPUT:**
+<img width="934" height="347" alt="image" src="https://github.com/user-attachments/assets/ba350a8e-035f-419e-9a51-7a708385e5f4" />
+<img width="945" height="368" alt="image" src="https://github.com/user-attachments/assets/846e16be-ba75-470b-a438-5133ff18df46" />
+<img width="953" height="328" alt="image" src="https://github.com/user-attachments/assets/4f4041dc-c978-4a98-bc76-c2957910ea90" />
+<img width="960" height="367" alt="image" src="https://github.com/user-attachments/assets/bee7f34f-6de5-439e-9ed4-a185e50027f9" />
+<img width="799" height="400" alt="image" src="https://github.com/user-attachments/assets/0e66bf41-f179-47eb-9ebf-fe16fc1c1501" />
+<img width="807" height="366" alt="image" src="https://github.com/user-attachments/assets/b50e70b8-c134-457f-b27a-dc74afc0c3a3" />
+
+
+
+
+
