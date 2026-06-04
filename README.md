@@ -114,4 +114,4 @@ bash
 git clone <repository-url>
 cd <project-folder>
 pip install -r requirements.txt
-streamlit run app.py
+ streamlit run app.py
