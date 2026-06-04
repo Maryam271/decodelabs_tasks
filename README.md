@@ -117,8 +117,17 @@ pip install -r requirements.txt
  streamlit run app.py
 
 **OUTPUT:**
-<img width="934" height="347" alt="image" src="https://github.com/user-attachments/assets/ba350a8e-035f-419e-9a51-7a708385e5f4" />
-<img width="945" height="368" alt="image" src="https://github.com/user-attachments/assets/846e16be-ba75-470b-a438-5133ff18df46" />
+<img width="895" height="408" alt="image" src="https://github.com/user-attachments/assets/dd1c6487-0030-4826-9624-4b8667335395" />
+<img width="780" height="252" alt="image" src="https://github.com/user-attachments/assets/9216d122-fb14-4f19-ab24-b13c7f975e7d" />
+<img width="426" height="263" alt="image" src="https://github.com/user-attachments/assets/30fc6532-7202-4940-b5ab-3ff4462636b5" />
+<img width="434" height="278" alt="image" src="https://github.com/user-attachments/assets/cce0891a-9b29-48f6-884c-837addfca4e2" />
+<img width="431" height="350" alt="image" src="https://github.com/user-attachments/assets/18f93a2a-b1a9-4069-ae06-5015ecc6365a" />
+<img width="436" height="279" alt="image" src="https://github.com/user-attachments/assets/cb9b3e82-a942-4699-8cb8-2ed617f30f69" />
+<img width="795" height="410" alt="image" src="https://github.com/user-attachments/assets/06f799c8-f370-4149-a7bb-2ff09c6a1c80" />
+<img width="468" height="367" alt="image" src="https://github.com/user-attachments/assets/9200e5a9-4c61-479d-92cd-d39aa38433e9" />
+<img width="781" height="276" alt="image" src="https://github.com/user-attachments/assets/633a46f9-f9e0-427c-87fe-8231893bcaa2" />
+<img width="424" height="310" alt="image" src="https://github.com/user-attachments/assets/066efffc-5980-48c5-b6bc-9a8f58ad8445" />
+<img width="801" height="285" alt="image" src="https://github.com/user-attachments/assets/a6e09e2b-1ead-4d96-868b-f2c81e6425e0" />
 <img width="953" height="328" alt="image" src="https://github.com/user-attachments/assets/4f4041dc-c978-4a98-bc76-c2957910ea90" />
 <img width="960" height="367" alt="image" src="https://github.com/user-attachments/assets/bee7f34f-6de5-439e-9ed4-a185e50027f9" />
 <img width="799" height="400" alt="image" src="https://github.com/user-attachments/assets/0e66bf41-f179-47eb-9ebf-fe16fc1c1501" />
