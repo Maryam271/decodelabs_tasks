@@ -1,4 +1,4 @@
-** 📊 AI-Powered Data Analysis & Machine Learning Dashboard**
+**📊 AI-Powered Data Analysis & Machine Learning Dashboard**
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
